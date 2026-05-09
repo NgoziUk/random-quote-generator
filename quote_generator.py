@@ -1,0 +1,1 @@
+print("Quote Generator Started")
